@@ -1,0 +1,8 @@
+langchain 
+langgraph 
+langchain-google-genai
+sqlalchemy 
+psycopg2-binary
+pandas
+faiss-cpu
+sentence-transformers
